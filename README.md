@@ -1,1 +1,2 @@
-# Cubtsapp
+# Cubtsapp 
+Cubik sigmo Cubik Cubovich
