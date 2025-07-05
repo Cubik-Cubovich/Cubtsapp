@@ -43,7 +43,7 @@ namespace Plugins {
     
     bool Authenticate(const string& login, const string& password) {
         static const map<string, string> credentials = {
-            {"Test", "Test"},
+            {"Test", "Test"}, // Login and password
             {"Test1", "Test1"},
         };
 
